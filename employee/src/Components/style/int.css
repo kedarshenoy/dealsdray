@@ -1,0 +1,68 @@
+
+.loginbox{
+    text-align: center; 
+    border: 2px solid black;
+    padding: 50px;
+}
+
+.loginpage{
+    margin-top: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loginNav{
+    width:100%;
+    background-color: yellow;
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: flex;
+    justify-content:start;
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.logo{
+    font-size: 30px;
+}
+
+.navbars{
+    
+    display: flex;
+    justify-content:space-evenly;
+    padding: 5px;
+    cursor: pointer;
+    background-color: rgb(194, 242, 242);
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.navlinks{
+    display: inline-block;
+}
+
+.navlinks:hover{
+color: rgb(125, 125, 125);
+}
+
+
+.pagename{
+    display: flex;
+    justify-content:space-between;
+    font-size: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+.items{
+    margin-top: 10px;
+}
+.empcreateform{
+    border: 2px solid black;
+    padding: 30px;
+
+}
+

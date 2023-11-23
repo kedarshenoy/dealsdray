@@ -1,0 +1,9 @@
+Employee: Front-end (react)
+videos: Demo(code execution and application working)
+DatabaseCollections: Sample of collectiions used un the MONGO DB
+
+
+Email:akedarshenoy@gmail.com
+
+
+ 
